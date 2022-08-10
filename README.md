@@ -1,7 +1,10 @@
-# Projeto Amazon Video
+# Amazon Video Project
 
-Projeto Amazon Video com api
+  Project made with data from the movie db api
 
 <div>
-  <img src="">
+  <h1> Desktop </h1>
+  <img width="80%" src="/tela projeto amazon.png">
+  <h1> Mobile </h1>
+  <img width="20%" src="/tela projeto amazon.png">
 </div>
